@@ -14,3 +14,6 @@ They can then use this information to plan their gym attendance based on if they
 
 In terms of functionality - the graphing and alerting hasn't been added yet.
 
+## AWS 
+
+This application is hosted on AWS (originally using ElasticBeanstalk) and now hosted on EC2 with Spot Instances, using Route53 for DNS.
